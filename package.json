@@ -1,0 +1,20 @@
+{
+  "name": "appium-sample",
+  "version": "1.0.0",
+  "description": "appium sample spec",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/threetreeslight/appium-sample.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akira Miki",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "chai-as-promised": "^4.3.0",
+    "colors": "^1.0.3",
+    "underscore": "^1.8.2",
+    "wd": "^0.3.11"
+  }
+}
